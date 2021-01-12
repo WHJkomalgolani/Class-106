@@ -1,0 +1,2 @@
+In statistics when we have data scattered on graph
+the line which fits the most to represent the data is the central line
